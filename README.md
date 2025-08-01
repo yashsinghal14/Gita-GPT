@@ -162,11 +162,9 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-**Made with ❤️ for seekers of divine wisdom**img width="1560" height="865" alt="Screenshot 2025-07-14 at 7 21 31 PM" src="https://github.com/user-attachments/assets/a99aafc1-8820-4ed5-b63a-788e279d2938" />
+**Made with ❤️ for seekers of divine wisdom**src="https://github.com/user-attachments/assets/a99aafc1-8820-4ed5-b63a-788e279d2938" />
 
 # GITA-GPT
-
-DEMO: https://youtu.be/_aAi9S8k2yE
 
 A modern AI-powered Q&A system for the Bhagavad Gita, using Retrieval-Augmented Generation (RAG) with ChromaDB Cloud, FastAPI, and a beautiful custom frontend.
 
