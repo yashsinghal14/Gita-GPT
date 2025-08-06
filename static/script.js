@@ -98,7 +98,7 @@ document.addEventListener('DOMContentLoaded', function() {
         showToast('🔮 Sending your question to the Gita...', 'info');
 
         try {
-            const response = await fetch('http://localhost:8001/api/query', {
+            const response = await fetch('http://localhost:8000/api/query', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
