@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: gita-gpt
+    env: python
+    plan: free
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "python api.py"
+    envVars:
+      - key: GROQ_API_KEY
+        value: your_groq_api_key
+      # Add other ChromaDB keys if needed
